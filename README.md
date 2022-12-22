@@ -1,3 +1,3 @@
-##Readme for our project
+# Readme for our project
 
 This is a line added by Alex.
